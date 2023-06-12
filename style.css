@@ -192,7 +192,7 @@
            .gallery .banner_section,
            .contact .banner_section,
            .distributors .banner_section {
-               background: url('../images/banner-slide/top-banner.jpg');
+               background: url('images/banner-slide/top-banner.jpg');
                background-repeat: no-repeat;
                background-position: center;
                background-size: cover;
@@ -241,7 +241,7 @@
            }
            
            .header .navbar {
-               background: url('../images/header-bg.png');
+               background: url('images/header-bg.png');
                background-repeat: no-repeat;
                background-position: center;
                background-size: contain;
@@ -325,7 +325,7 @@
            /* 02 Banner Section */
            
            .banner_section {
-               background: url('../images/banner-slide/Banner-1.jpg');
+               background: url('images/banner-slide/Banner-1.jpg');
                background-repeat: no-repeat;
                background-size: cover;
                background-position: center;
@@ -411,7 +411,7 @@
            /* About Section */
            
            .landing_about_section {
-               background: url('../images/about/about-banner.jpg');
+               background: url('images/about/about-banner.jpg');
                background-repeat: no-repeat;
                background-size: cover;
                background-position: center;
@@ -492,7 +492,7 @@
            }
            
            .testimonial_section .card {
-               background: url('../images/testimonial/testimonial-bg.png');
+               background: url('images/testimonial/testimonial-bg.png');
                background-size: cover;
                background-repeat: no-repeat;
                background-position: center center;
@@ -530,7 +530,7 @@
            /* Footer CSS */
            
            .footer_wrapper {
-               background: url('../images/footer-bg/footer_bg.png');
+               background: url('images/footer-bg/footer_bg.png');
                background-repeat: no-repeat;
                background-size: cover;
                background-position: top center;
